@@ -1,0 +1,27 @@
+{
+  "name": "resume-parser",
+  "version": "1.0.0",
+  "description": "for parsing resumes REACT APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "npm start --prefix server",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GigiOtoya/resume-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GigiOtoya/resume-parser/issues"
+  },
+  "homepage": "https://github.com/GigiOtoya/resume-parser#readme",
+  "devDependencies": {
+    "concurrently": "^7.2.2",
+    "nodemon": "^2.0.19"
+  }
+}
