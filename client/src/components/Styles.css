@@ -18,12 +18,20 @@ li {
     color: white;
 }
 
+.homeIcon {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+
 .form-container {
     margin: auto;
     margin-top: 10%;
     width: 40%;
     background-color: #edf2f7;
     border: dashed;
+    border-color: rgb(9, 9, 88);
+    border-radius: 8px;
 }
 
 .form-group-files {
@@ -55,3 +63,4 @@ li {
 p.thick {
     font-weight: 900;
 }
+
