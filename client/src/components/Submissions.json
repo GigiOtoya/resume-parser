@@ -1,0 +1,23 @@
+[
+ {
+  "First Name": "Kjeld",
+  "Last Name": "Ya",
+  "Education": "City College of New York",
+  "Skills": "Python, C#, C++, Java, Javascript, React",
+  "Work Experience": "Entry-Level Software Developer at Google"
+ },
+ {
+  "First Name": "John",
+  "Last Name": "Doe",
+  "Education": "Yale University",
+  "Skills": "Java, Python, C#, C++, Javascript, React, Django, Flask",
+  "Work Experience": "Intel - Solutions Developer Cognizant, involved in development and implementations of Automation Solutions such as Report Intelligence BOT."
+ },
+ {
+  "First Name": "Miguel",
+  "Last Name": "Sanchez",
+  "Education": "Boston University",
+  "Skills": "Java, Python, C++, Cyber Security, Unix",
+  "Work Experience": "Microsoft – Cyber Security Analyst: Worked with development team to harden business firewall."
+ }
+]
